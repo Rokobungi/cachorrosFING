@@ -9,7 +9,7 @@ function definirEstilos(){
 	var estilo = document.createElement("STYLE");
 	var texto = document.createTextNode("\
 		@font-face {\
-		font-family: "+fuente+"\
+		font-family: 'Montserrat', sans-serif;\
 		}\
 		.titulo{\
 			font-size: 32px;\
