@@ -2,9 +2,6 @@ function definirEstilos(){
 	var estilo = document.createElement("STYLE");
 	var texto = document.createTextNode("\
 		@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');\
-		@font-face {\
-			font-family: 'Montserrat', sans-serif;\
-		}\
 		#pTitulo{\
 			font-size: 32px;\
 			font-family: 'Montserrat', sans-serif;\
