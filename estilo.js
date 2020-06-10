@@ -23,5 +23,5 @@ function definirEstilos(fuente){
     }\
   ");
   estilo.appendChild(texto);
-  document.head.appendChiled(estilo);
+  document.head.appendChild(estilo);
 }
