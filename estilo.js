@@ -1,10 +1,3 @@
-function llamarFuente(){
-	var enlace = document.createElement("LINK");
-	enlace.setAttribute("rel","stylesheet");
-	enlace.setAttribute("href","https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap");
-	document.head.appendChild(enlace);
-}
-
 function definirEstilos(){
 	var estilo = document.createElement("STYLE");
 	var texto = document.createTextNode("\
@@ -26,3 +19,12 @@ function definirEstilos(){
 	estilo.appendChild(texto);
 	document.head.appendChild(estilo);
 }
+
+/*
+function llamarFuente(){
+	var enlace = document.createElement("LINK");
+	enlace.setAttribute("rel","stylesheet");
+	enlace.setAttribute("href","https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap");
+	document.head.appendChild(enlace);
+}
+*/
