@@ -7,11 +7,15 @@ function definirEstilos(){
 			font-family: 'Montserrat', sans-serif;\
 		}\
 		#pDescripcion{\
-			ont-size: 14px;\
+			font-size: 14px;\
 			font-family: 'Montserrat', sans-serif;\
 			text-align: justify;\
 			margin-left: 10px;\
 		}\
+		#ulDescripcion{\
+			font-size: 14px;\
+			font-family: 'Montserrat', sans-serif;\
+			text-align: justify;\
 	");
 	estilo.appendChild(texto);
 	document.head.appendChild(estilo);
