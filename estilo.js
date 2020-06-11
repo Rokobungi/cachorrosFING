@@ -6,7 +6,6 @@ function definirEstilos(){
 			font-size: 24px;\
 			font-family: 'Montserrat', sans-serif;\
 			line-height: 95%;\
-			top: 50%;\
 		}\
 		#pDescripcion{\
 			ont-size: 14px;\
