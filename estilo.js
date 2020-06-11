@@ -7,13 +7,13 @@ function definirEstilos(){
 			font-family: 'Montserrat', sans-serif;\
 		}\
 		#pDescripcion{\
-			font-size: 14px;\
+			font-size: 16px;\
 			font-family: 'Montserrat', sans-serif;\
 			text-align: justify;\
 			margin-left: 10px;\
 		}\
 		#ulDescripcion{\
-			font-size: 14px;\
+			font-size: 16px;\
 			font-family: 'Montserrat', sans-serif;\
 			text-align: justify;\
 	");
