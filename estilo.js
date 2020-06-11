@@ -9,6 +9,7 @@ function definirEstilos(){
 		#pDescripcion{\
 			ont-size: 14px;\
 			font-family: 'Montserrat', sans-serif;\
+			text-align: justify;\
 			margin-left: 10px;\
 		}\
 	");
