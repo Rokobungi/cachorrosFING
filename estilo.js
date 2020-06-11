@@ -5,9 +5,8 @@ function definirEstilos(){
 		#pTitulo{\
 			font-size: 24px;\
 			font-family: 'Montserrat', sans-serif;\
-			line-height: 90%;\
+			line-height: 95%;\
 			top: 50%;\
-			bottom: 50%;\
 		}\
 		#pDescripcion{\
 			ont-size: 14px;\
