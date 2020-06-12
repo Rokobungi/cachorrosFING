@@ -16,6 +16,7 @@ function definirEstilos(){
 			font-size: 16px;\
 			font-family: 'Montserrat', sans-serif;\
 			text-align: justify;\
+		}\
 	");
 	estilo.appendChild(texto);
 	document.head.appendChild(estilo);
