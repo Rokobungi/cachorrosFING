@@ -16,6 +16,12 @@ function definirEstilos(){
 			text-align: justify;\
 			margin-left: 10px;\
 		}\
+		#pDescripcionV{\
+			font-size: 16px;\
+			font-family: 'Montserrat', sans-serif;\
+			text-align: center;\
+			margin-left: 10px;\
+		}\
 		#ulDescripcion{\
 			font-size: 16px;\
 			font-family: 'Montserrat', sans-serif;\
