@@ -6,6 +6,10 @@ function definirEstilos(){
 			font-size: 24px;\
 			font-family: 'Montserrat', sans-serif;\
 		}\
+		#pTitulo2{\
+			font-size: 22px;\
+			font-family: 'Montserrat', sans-serif;\
+		}\
 		#pDescripcion{\
 			font-size: 16px;\
 			font-family: 'Montserrat', sans-serif;\
